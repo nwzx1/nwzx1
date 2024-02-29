@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+<p align="left" style="displey:flex;justify_content:center;"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="80" height="80" /> </a>
@@ -55,7 +55,9 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 
-<p><img align="center"
+<p>
+
+<img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=nwzx1&show_icons=true&locale=en&layout=compact"
         alt="nwzx1" /></p>
 
